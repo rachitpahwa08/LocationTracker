@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "784933745452",
+    "firebase_url": "https://minor-1f1b7.firebaseio.com",
+    "project_id": "minor-1f1b7",
+    "storage_bucket": "minor-1f1b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784933745452:android:a1211ec000a2219f",
+        "android_client_info": {
+          "package_name": "com.assettracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784933745452-9ateeo00mpnm0dpo3k78i2tlnqpu73av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPCpRcnOANkSiCyx3MJy03AN2e0yBMPAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
